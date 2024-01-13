@@ -1,0 +1,22 @@
+{
+  "name": "zajecia",
+  "version": "1.0.0",
+  "description": "pierwsze",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Testoviron77/Zajecia.git"
+  },
+  "author": "Testoviron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Testoviron77/Zajecia/issues"
+  },
+  "homepage": "https://github.com/Testoviron77/Zajecia#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
